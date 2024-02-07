@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="special_offers_title">Special offers</string>
+    <string name="achievements_and_awards_title">Achievements and awards</string>
+    <string name="out_new_products_title">Out new products</string>
+    <string name="search_hint">Find a sportcar ...</string>
+</resources>
